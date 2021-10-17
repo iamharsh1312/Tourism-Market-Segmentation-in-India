@@ -26,3 +26,6 @@ Dataset used in the project is taken from here:
 ## ML Techniques used
 * Hierarchial Clustering
 * K-Means Clustering
+
+## Results
+* For Travel Startup, it would be best to open hotel chains first in these regions as they offer distinctive advantages and are highly profitable. 
